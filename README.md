@@ -22,7 +22,7 @@ Here are some of my recent projects:
 1. **[Workit Landing Page](https://workit-landing-page-2yvyrfz2x-sumaira-s-projects.vercel.app/)**
    - A modern, responsive home page built using HTML, SCSS.
 
-2. **[React Weather App](https://product-landing-page-kappa-one.vercel.app/)**
+2. **[Product Landing page](https://product-landing-page-kappa-one.vercel.app/)**
    - A responsive landing page built using HTML and  CSS.
 
 ---
