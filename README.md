@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sumaira Maqsood</h1>
-<h3 align="center">A passionate  Front-End Developer from Karachi Pakistan</h3>
+<h1 align="left">Hi 👋, I'm Sumaira Maqsood</h1>
+<h3 align="left">A passionate  Front-End Developer from Karachi Pakistan</h3>
 
 Welcome to my GitHub profile!  My journey in web development revolves around crafting visually appealing and interactive interfaces using modern tools and technologies.
 
 
 
 
-
-- 🔭 I’m currently working on [Workit Landing page](https://workit-landing-page-2yvyrfz2x-sumaira-s-projects.vercel.app/)
-
-- 🌱 I’m currently learning **Javascript, Sass and Scss**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sumairamaqsood?tab=repositories](https://github.com/sumairamaqsood?tab=repositories)
 
 
 
