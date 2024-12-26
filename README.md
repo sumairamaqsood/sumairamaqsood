@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sumaira Maqsood</h1>
-<h3 align="left">A passionate  Front-End Developer from Karachi Pakistan</h3>
+<h2 align="left">A passionate  Front-End Developer from Pakistan.</h2>
 
 Welcome to my GitHub profile!  My journey in web development revolves around crafting visually appealing and interactive interfaces using modern tools and technologies.
 
@@ -20,6 +20,7 @@ ____
 ## 🛠 Skills
 
 - **Languages & Frameworks:**
+  
   -  HTML5, CSS3, JavaScript (ES6+), React
 - **Styling Libraries:**
   -  SASS/SCSS, Bootstrap, Tailwind CSS
