@@ -33,7 +33,7 @@ ____
 
 Here are some of my recent projects:
 
-1. **[Workit Landing Page](https://workit-landing-page-2yvyrfz2x-sumaira-s-projects.vercel.app/)**
+1. **[Portfolio](https://sumaira-maqsood-porfolio.vercel.app/)**
    - A modern, responsive home page built using HTML, SCSS.
 
 2. **[Product Landing page](https://product-landing-page-kappa-one.vercel.app/)**
