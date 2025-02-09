@@ -34,10 +34,10 @@ ____
 Here are some of my recent projects:
 
 1. **[Portfolio](https://sumaira-maqsood-porfolio.vercel.app/)**
-   - A modern, responsive home page built using HTML, SCSS.
+   - A modern, responsive Portfolio built using HTML, CSS.
 
-2. **[Product Landing page](https://product-landing-page-kappa-one.vercel.app/)**
-   - A responsive landing page built using HTML and  CSS.
+2. **[Ecommerce Product  page](https://ecommerce-product-page-alpha-eight.vercel.app/)**
+   - A responsive landing page built using HTML ,  CSS and JavaScript.
 
 ---
 
